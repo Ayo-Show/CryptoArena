@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS users CASCADE;
+CREATE TABLE users(
+    id SERIAL PRIMARY KEY NOT NULL,
+    name VARCHAR(255) NOT NULL,
+    symbol VARCHAR(255),
+    slug VARCHAR(255) NOT NULL,
+    num_market_pairs VARCHAR(255) NOT NULL,
+    date_added VARCHAR(255)
+);
