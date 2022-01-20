@@ -6,8 +6,8 @@ One stop shop with in depth data of all CryptoCurrencies, Crypto markets and pop
 <table>
   <tr>
     <td>
-        <a href = "https://github.com/github4maninder/CryptoArena/graphs/contributors">
-          <img src = "https://contrib.rocks/image?repo=github4maninder/CryptoArena"/>
+        <a href="https://github.com/github4maninder/cryptoarena/graphs/contributors">
+         <img src="https://contrib.rocks/image?repo=github4maninder/cryptoarena" /> 
         </a>
      </td>
   </tr>
